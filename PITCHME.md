@@ -1,7 +1,7 @@
 test
 ---
 - image  
-- ![test_image](/blob/master/assets/img/test.jp)  
+- ![test_image](https://github.com/yymsht/gitpitch/blob/master/assets/img/test.jpg)  
 
 ---
 EOF
